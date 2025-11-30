@@ -8,8 +8,10 @@ This is my second devops experiment i still have 13 exps to work with .
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charvigosala&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charvigosala&layout=compact)
+
 
 ## 🌐 Connect with Me
 
